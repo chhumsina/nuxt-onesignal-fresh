@@ -1,7 +1,7 @@
 module.exports = {
     mode: 'spa',
     generate: {
-        dir: '../laragon/www/other'
+        // dir: './dist'
     },
     modules: [
         ['@nuxtjs/onesignal', {
